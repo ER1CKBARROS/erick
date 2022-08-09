@@ -1,6 +1,6 @@
 ### Hi there, I'm Erick 👋 🇧🇷 
 
-- 👨🏼‍🎓 I'm a 18 years old student at 42 Lisbon
+- 👨🏼‍🎓 I'm a 19 years old student at 42 Lisbon
 - 👨🏼‍💻 I’m currently working on [so_long](https://github.com/egoncalv/so_long) (A small 2d game built with 42's graphical library)
 - 💻 I’m currently learning the C language and a lot of other cool things.
 - 🛹 I love Skateboarding
