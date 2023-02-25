@@ -1,4 +1,4 @@
-### Hi there, I'm Erick 👋 🇧🇷 
+### Hi there, I'm Erick 👋 
 
 - 👨🏼‍🎓 I'm a 19 years old student at 42 Lisbon
 - 👨🏼‍💻 I’m currently working on [philosophers](https://github.com/egoncalv/philosophers)
